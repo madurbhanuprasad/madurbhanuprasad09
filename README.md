@@ -2,7 +2,7 @@
 
 ## 🌟 About Me
 Brief introduction about yourself, your interests, and your passion for coding.
-[![BHANU's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/madurbhanuprasad)
+[![BHANU's GitHub stats](https://github-readme-stats.vercel.app/api?username=madurbhanuprasad)](https://github.com/madurbhanuprasad)
 
 ## 🚀 Projects
 ### Project 1
