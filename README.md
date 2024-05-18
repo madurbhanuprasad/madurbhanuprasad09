@@ -1,3 +1,8 @@
+<div align="center" style="width: 100%;">
+  ### ✍️ Random Dev Quote
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
+
 # 👨‍💻 [MADUR BHANU PRASAD]
 
 ## 🌟 About Me
@@ -30,7 +35,7 @@ Brief introduction about yourself, your interests, and your passion for coding.
   <img src="https://github-readme-stats.vercel.app/api?username=madurbhanuprasad&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="195"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=madurbhanuprasad&theme=dark&hide_border=false" alt="GitHub Streak" height="195"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madurbhanuprasad&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madurbhanuprasad&layout=pie" alt="Top Languages Pie" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madurbhanuprasad&theme=dark&hide_border=false&size_weight=0.5&count_weight=0.5" alt="Top Langs" height="195"/>
 </div>
 
 
@@ -54,6 +59,44 @@ Brief introduction about yourself, your interests, and your passion for coding.
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
+
+## 🚀 Projects
+
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Link</th>
+    <th>Technologies Used</th>
+    <th>Demo Video</th>
+    <th>Project Report</th>
+  </tr>
+  <tr>
+    <td>Project 1</td>
+    <td>Brief description of the project</td>
+    <td><a href="link">🔗 Project Link</a></td>
+    <td>List of technologies or languages used</td>
+    <td><a href="video_link">🎥 YouTube Demo</a></td>
+    <td><a href="report_link">📄 PDF Report</a></td>
+  </tr>
+  <tr>
+    <td>Project 2</td>
+    <td>Brief description of the project</td>
+    <td><a href="link">🔗 Project Link</a></td>
+    <td>List of technologies or languages used</td>
+    <td><a href="video_link">🎥 YouTube Demo</a></td>
+    <td><a href="report_link">📄 PDF Report</a></td>
+  </tr>
+  <tr>
+    <td>Project 3</td>
+    <td>Brief description of the project</td>
+    <td><a href="link">🔗 Project Link</a></td>
+    <td>List of technologies or languages used</td>
+    <td><a href="video_link">🎥 YouTube Demo</a></td>
+    <td><a href="report_link">📄 PDF Report</a></td>
+  </tr>
+</table>
+
 
 ## 🚀 Projects
 ### Project 1
